@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Waste
+comment1.params=type
+comment1.target=Waste(java.lang.String)
+comment2.params=type\ isSpecial
+comment2.target=Waste(java.lang.String,\ boolean)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=java.lang.String\ getType()
+comment5.params=
+comment5.target=void\ checkCorrectBin()
+numComments=6

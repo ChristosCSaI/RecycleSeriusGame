@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=QuizScreen
+comment1.params=recyclingWorld\ question\ options\ correctAnswer
+comment1.target=QuizScreen(RecyclingWorld,\ java.lang.String,\ java.lang.String[],\ int)
+comment2.params=
+comment2.target=void\ prepare()
+numComments=3

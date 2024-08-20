@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=TipScreen
+comment1.params=nextLevel
+comment1.target=TipScreen(RecyclingWorld)
+comment2.params=
+comment2.target=void\ act()
+numComments=3

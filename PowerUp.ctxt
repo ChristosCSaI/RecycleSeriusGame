@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=PowerUp
+comment1.params=type
+comment1.target=PowerUp(java.lang.String)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ checkForPickup()
+comment4.params=player
+comment4.target=void\ applyEffect(Player)
+numComments=5
